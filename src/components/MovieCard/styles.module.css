@@ -1,0 +1,30 @@
+.container {
+  width: 15rem;
+  height: 25rem;
+}
+
+.container img {
+  width: 100%;
+  max-height: 20rem;
+  object-fit: cover;
+  border-radius: 4px;
+  transition: transform .5s;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.description p {
+  font-size: 1rem;
+  color: var(--title);
+}
+
+
+.container img:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: var(--background-secondary);
+}
+
+.container {
+  text-align: center;
+}
+
+.container h1 img {
+  width: 5rem;
+  height: 5rem;
+  margin-top: 2rem;
+}
+
+.container > div  {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
