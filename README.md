@@ -30,5 +30,4 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 ## Demonstração
 
-<a href="https://youtu.be/RrQ7nZjPKfo">
-<img src="https://i9.ytimg.com/vi_webp/RrQ7nZjPKfo/mqdefault.webp?v=63c73f11&sqp=COD_nJ4G&rs=AOn4CLCafR_vilBB9vBSN7KobIR2YDNi0g"></a>
+[Pequena demonstração](https://youtu.be/RrQ7nZjPKfo)
