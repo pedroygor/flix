@@ -1,5 +1,9 @@
-# Um catálogo de filmes
-![exemplo](src/assets/flix.png)
+<h1 align="center"> Um catálogo de filmes</h1>
+
+<p align="center">
+  <img src="src/assets/flix.png" width="100%" />
+</p>
+
 
 ## :rocket: Tecnologias
 
