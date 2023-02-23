@@ -10,7 +10,7 @@
 - TypeScript
 - Figma
 
-## Instalação
+## :computer: Instalação
 
 Certifique-se de ter o npm e o node.js instalados em sua máquina antes de seguir os passos acima.
 
@@ -30,12 +30,12 @@ Certifique-se de ter o npm e o node.js instalados em sua máquina antes de segui
 
 Agora você pode acessar o projeto em <http://localhost:5173>
 
-## Variáveis de Ambiente
+## :key: Variáveis de Ambiente
 
 Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
 
 `API_KEY` da API [https://api.themoviedb.org/](https://api.themoviedb.org/)
 
-## Demonstração
+## :movie_camera: Demonstração
 
 [Pequena demonstração](https://youtu.be/RrQ7nZjPKfo)
