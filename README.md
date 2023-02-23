@@ -1,6 +1,14 @@
-# Flix
+# Um catálogo de filmes
+![exemplo](src/assets/flix.png)
 
-Um catálogo de filmes criado com React, CSS Modules, TypeScript, React Router Dom
+## :rocket: Tecnologias
+
+- React
+- Hooks
+- React Router Dom
+- CSS Modules
+- TypeScript
+- Figma
 
 ## Instalação
 
